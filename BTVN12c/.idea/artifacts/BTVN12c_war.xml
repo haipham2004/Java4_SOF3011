@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BTVN12c:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>BTVN12c</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="BTVN12c-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="BTVN12c:war exploded" />
+    </root>
+  </artifact>
+</component>
